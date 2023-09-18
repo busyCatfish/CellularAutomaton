@@ -1,0 +1,11 @@
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\bin\Debug\CellularAutomaton.exe.config
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\bin\Debug\CellularAutomaton.exe
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\bin\Debug\CellularAutomaton.pdb
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.csproj.AssemblyReference.cache
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.Form1.resources
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.Properties.Resources.resources
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.csproj.GenerateResource.cache
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.csproj.CoreCompileInputs.cache
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.exe
+C:\Users\Proton\Desktop\CellularAutomaton\CellularAutomaton\obj\Debug\CellularAutomaton.pdb
